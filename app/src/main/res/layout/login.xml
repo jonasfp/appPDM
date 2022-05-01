@@ -11,12 +11,41 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:src="@drawable/imgSplash"
+        android:src="@drawable/imginicial"
         android:layout_gravity="center_horizontal"
+        android:paddingTop="80dp"
         />
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"/>
+        android:layout_margin="40dp"
+        android:text="@string/email"
+        android:textColor="#959595"
+        android:textSize="30dp"
+        android:backgroundTint="@color/cinzaclaro"
+        android:background="@drawable/rounded_edittext"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"
+        android:text="@string/senha"
+        android:textColor="#959595"
+        android:textSize="30dp"
+        android:backgroundTint="@color/cinzaclaro"
+        android:background="@drawable/rounded_edittext"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:text="@string/entrar"
+        android:textColor="@color/white"
+        android:textSize="15dp"
+        android:backgroundTint="@color/black"
+        android:background="@drawable/rounded_edittext"/>
+
 
 </LinearLayout>
