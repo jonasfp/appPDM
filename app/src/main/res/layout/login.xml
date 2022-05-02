@@ -67,4 +67,6 @@
         android:textColor="@color/orange"
         android:textAlignment="center"/>
 
+    <!-- verde 229A00 vermelha FF0000-->
+
 </LinearLayout>
