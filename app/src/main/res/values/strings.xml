@@ -6,4 +6,7 @@
     <string name="criarconta">Criar conta</string>
     <string name="nome">Nome</string>
     <string name="cadastrar">Cadastrar</string>
+    <string name="encomendas">Encomendas</string>
+    <string name="produto">Cadastrar</string>
+    <string name="pesquisar">Pesquisar</string>
 </resources>
