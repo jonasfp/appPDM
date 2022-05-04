@@ -36,7 +36,8 @@
             android:layout_marginTop="20dp"
             android:layout_toRightOf="@+id/produto"
             android:text="@string/produto"
-            android:textSize="30dp" />
+            android:textSize="30dp"
+            android:textColor="@color/orange"/>
 
     </RelativeLayout>
 
@@ -59,7 +60,8 @@
             android:layout_marginTop="30dp"
             android:layout_toRightOf="@+id/buscar"
             android:text="@string/pesquisar"
-            android:textSize="30dp" />
+            android:textSize="30dp"
+            android:textColor="@color/orange"/>
 
     </RelativeLayout>
 
