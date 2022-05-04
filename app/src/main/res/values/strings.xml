@@ -9,4 +9,5 @@
     <string name="encomendas">Encomendas</string>
     <string name="produto">Cadastrar</string>
     <string name="pesquisar">Pesquisar</string>
+    <string name="apartamento">Qual o número do apartamento ?</string>
 </resources>
